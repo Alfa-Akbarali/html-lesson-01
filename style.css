@@ -1,0 +1,36 @@
+
+#header
+{
+    padding: 10px;
+    border: 1px solid blue;
+    background-color: pink;
+}
+#main{
+    background-color: aqua;
+    border: 1px solid blue;
+    padding: 10px;
+}
+#footer{
+    padding: 10px;
+    background-color: rgb(248, 100, 100);
+    border: 1px solid blue;
+}
+#empty{
+    padding: 10px;
+    background-color: rgb(236, 100, 248);
+    border: 1px solid blue;
+}
+#sidebar{
+    padding: 10px;
+    background-color: rgb(209, 248, 100);
+    border: 1px solid blue;
+}
+#footer{
+    padding: 10px;
+    background-color: rgb(100, 214, 248);
+    border: 1px solid blue;
+}
+.row{
+    height: 100vh;
+    margin: 0;
+}
